@@ -107,7 +107,7 @@ function Question_1() {
 							/>
 						</Col>
 						<Col sm="2">
-							<Form.Label>ชื่อเล่น Nickname</Form.Label>
+							<Form.Label>ชื่อเล่น<br/>Nickname</Form.Label>
 						</Col>
 						<Col sm="4">
 							<Form.Control placeholder="ชื่อเล่น" name="Nickname"
